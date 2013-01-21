@@ -1,0 +1,19 @@
+{
+  "name": "compo",
+  "version": "0.0.0",
+  "description": "ERROR: No README.md file found!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "compo": "index.js"
+  },
+  "repository": "",
+  "author": "",
+  "license": "BSD",
+  "dependencies": {
+    "component-require": "~0.2.0",
+    "commander": "~1.1.1"
+  }
+}
